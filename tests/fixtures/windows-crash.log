@@ -1,0 +1,5 @@
+2026-09-01 12:00:01 INFO Starting renderer
+2026-09-01 12:00:02 ERROR Renderer failed in C:\Game\bin\renderer.exe
+2026-09-01 12:00:03 Access violation at 0x00007FFD21AA119F
+2026-09-01 12:00:04 APPCRASH module renderer.exe PID 18472
+2026-09-01 12:00:05 Shutdown requested

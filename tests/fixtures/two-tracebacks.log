@@ -1,0 +1,10 @@
+Worker A starting
+Traceback (most recent call last):
+  File "worker.py", line 42, in run
+    parse_account(payload)
+ValueError: invalid account
+Worker B starting
+Traceback (most recent call last):
+  File "config.py", line 12, in load
+    open("config.json")
+FileNotFoundError: config.json

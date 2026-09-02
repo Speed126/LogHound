@@ -1,0 +1,20 @@
+# Virtual environments
+.venv/
+.venv-release/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Test/coverage
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Python build/package artifacts
+build/
+dist/
+*.egg-info/
+*.egg

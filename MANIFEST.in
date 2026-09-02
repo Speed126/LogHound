@@ -1,0 +1,5 @@
+include LICENSE
+include README.md
+recursive-include docs/images *.png
+recursive-include examples *.md
+recursive-include tests/fixtures *.log

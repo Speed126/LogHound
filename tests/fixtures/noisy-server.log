@@ -1,0 +1,9 @@
+2026-09-01 12:05:01 INFO server starting
+2026-09-01 12:05:02 INFO request 9919 completed HTTP 200
+2026-09-01 12:05:03 ERROR request 9921 timed out after 5003ms
+2026-09-01 12:05:04 INFO retrying request 9921
+2026-09-01 12:05:05 ERROR request 9922 timed out after 5011ms
+2026-09-01 12:05:06 WARN slow query detected
+2026-09-01 12:05:07 CRITICAL database unavailable
+2026-09-01 12:05:08 ERROR HTTP 500 from /api/accounts/42
+2026-09-01 12:05:09 ERROR HTTP 404 from /api/accounts/42

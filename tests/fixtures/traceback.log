@@ -1,0 +1,5 @@
+Starting worker
+Traceback (most recent call last):
+  File "worker.py", line 42, in run
+ValueError: invalid account id 90488152-89cb-43fa-882b-c01ba167de44
+Worker stopped
