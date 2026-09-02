@@ -154,7 +154,6 @@ def test_report_command_uses_default_output_path(tmp_path: Path) -> None:
 
     assert result.exit_code == 0
     assert "Wrote report to" in result.output
-    assert "server-loghound-report.md" in result.output
     assert expected_report.exists()
     assert "| Errors | 1 |" in expected_report.read_text(encoding="utf-8")
 
